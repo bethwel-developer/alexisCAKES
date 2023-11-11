@@ -696,6 +696,7 @@ html {
 }
 
 .ftco-social {
+  font-size: 16px;
   padding: 0;
 }
 .ftco-social li {
@@ -708,7 +709,7 @@ html {
 }
 
 .makereservation {
-  width: 100%;
+  width: 120%;
   background: #ffffff;
 }
 
@@ -717,6 +718,9 @@ html {
   color: #000000;
 }
 
+label{
+  font-size: 12px;
+}
 .makereservation .form-group .icon {
   position: absolute;
   top: 50% !important;
@@ -779,6 +783,9 @@ html {
   background: rgba(0, 0, 0, 0.85);
   margin: 7%;
   transition: all 0.4s ease 0s;
+}
+p{
+  font-size: 16px;
 }
 
 .single-cat-widget img {
