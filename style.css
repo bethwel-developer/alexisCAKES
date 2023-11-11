@@ -617,6 +617,7 @@ html {
 }
 .testimony-wrap .text p {
   font-style: italic;
+    font-size: 18px;
 }
 
 .testimony-wrap .icon {
